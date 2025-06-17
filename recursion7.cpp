@@ -1,3 +1,4 @@
+//power calculation
 #include<iostream>
 using namespace std;
 int pow(int p,int q)
