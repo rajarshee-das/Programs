@@ -1,3 +1,4 @@
+//sequential number addition with alternate sign
 #include<iostream>
 using namespace std;
 int function(int n)
