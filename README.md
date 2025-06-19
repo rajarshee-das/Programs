@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @rajarshee-das
-- 👀 I’m interested in whatsoever is there
-- 🌱 I’m currently learning what is there in market
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi , I am rajarshee-das
+- 👀 I am interested in whatsoever is there
+- 🌱 I am currently learning what is there in market
 
 <!---
 rajarshee-das/rajarshee-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
